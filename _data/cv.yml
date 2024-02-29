@@ -2,18 +2,16 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Yinhao Wu (吴寅昊)
     - name: Languages
-      value: English, German
+      value: Chinese (native), English (professional), Japanese (beginner)
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+      institution: University of Leicester, Leicester, United Kingdom
+      year: 2021.10 -- 2025.07 (expect)
       description:
         - Description 1.
         - Description 2.
