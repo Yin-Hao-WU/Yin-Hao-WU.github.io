@@ -19,8 +19,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+My name is Yinhao Wu (吴寅昊), I was born in Liaocheng City (聊城市), Shandong Province (山东省), China (中国), which is an ancient city with thousands of years of civilization.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+"Wu" is my surname. In Chinese, "Yin" means "tiger", also can mean "third", according to the Chinese lunar calendar, I was born on the third day of the Chinese lunar tiger year. Structurally, the upper part of "Hao" is Chinese "sun" and the lower part is Chinese "sky", which means my parents want me to be an upright person.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Now, I am a PhD candidate in Theoretical Astrophysics Group, School of Physics and Astronomy, University of Leicester. My supervisor is Prof. Sergei Nayakshin. I am committed to exploring the universe with numerical simulation, mainly is Protoplanetary disks (PPDs). My network is very extensive, collaborators/supervisors include Dr. Min-Kai Lin (ASIAA, Taipei) and Prof. Douglas N. C. Lin (UCSC).
